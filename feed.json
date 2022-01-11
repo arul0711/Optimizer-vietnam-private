@@ -4,7 +4,7 @@
         "Link64": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.1.9.1/npp.8.1.9.1.Installer.x64.exe",
         "Link": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.1.9.1/npp.8.1.9.1.Installer.exe",
         "Tag": "cNPP",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/notepadpp.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/notepadpp.png",
         "Group": "Coding"
     },
     {
@@ -12,14 +12,14 @@
         "Link64": "https://download.sublimetext.com/Sublime%20Text%20Build%203211%20x64%20Setup.exe",
         "Link": "https://download.sublimetext.com/Sublime%20Text%20Build%203211%20Setup.exe",
         "Tag": "cSublimeText",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/sublimetext.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/sublimetext.png",
         "Group": "Coding"
     },
     {
         "Title": "GitHub",
         "Link64": "https://desktop.githubusercontent.com/github-desktop/releases/2.9.4-24101633/GitHubDesktopSetup-x64.exe",
         "Tag": "cGitHub",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/github.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/github.png",
         "Group": "Coding"
     },
     {
@@ -27,21 +27,21 @@
         "Link": "https://nodejs.org/dist/v16.13.0/node-v16.13.0-x86.msi",
         "Link64": "https://nodejs.org/dist/v16.13.0/node-v16.13.0-x64.msi",
         "Tag": "cNode",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/nodejs.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/nodejs.png",
         "Group": "Coding"
     },
     {
         "Title": "XAMPP",
         "Link64": "https://downloadsapachefriends.global.ssl.fastly.net/8.0.12/xampp-windows-x64-8.0.12-0-VS16-installer.exe",
         "Tag": "cXAMPP",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/xampp.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/xampp.png",
         "Group": "Coding"
     },
     {
         "Title": "Visual Studio",
         "Link": "https://download.visualstudio.microsoft.com/download/pr/20130c62-1bc8-43d6-b4f0-c20bb7c79113/bee2ebedafcbaaf0d4fe61c9bd50b5884e0149e953cbe2abb6cb142e8c60d389/vs_Community.exe",
         "Tag": "cVS",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/visualstudio.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/visualstudio.png",
         "Group": "Coding"
     },
     {
@@ -49,7 +49,7 @@
         "Link64": "https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user",
         "Link": "https://code.visualstudio.com/sha/download?build=stable&os=win32-user",
         "Tag": "cVSCode",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/vscode.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/vscode.png",
         "Group": "Coding"
     },
     {
@@ -57,7 +57,7 @@
         "Link64": "https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe",
         "Link": "https://www.python.org/ftp/python/3.10.0/python-3.10.0.exe",
         "Tag": "cPython3",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/python.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/python.png",
         "Group": "Coding"
     },
     {
@@ -65,7 +65,7 @@
         "Link64": "https://www.python.org/ftp/python/2.7.18/python-2.7.18.amd64.msi",
         "Link": "https://www.python.org/ftp/python/2.7.18/python-2.7.18.msi",
         "Tag": "cPython2",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/python.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/python.png",
         "Group": "Coding"
     },
     {
@@ -73,7 +73,7 @@
         "Link64": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=244584_d7fc238d0cbf4b0dac67be84580cfb4b",
         "Link": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=244582_d7fc238d0cbf4b0dac67be84580cfb4b",
         "Tag": "cJava",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/java.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/java.png",
         "Group": "Coding"
     },
     {
@@ -81,7 +81,7 @@
         "Link64": "http://download.mozilla.org/?product=firefox-latest&os=Win64&lang=en-US",
         "Link": "http://download.mozilla.org/?product=firefox-latest&os=Win&lang=en-US",
         "Tag": "cFirefox",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/firefox.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/firefox.png",
         "Group": "Internet"
     },
     {
@@ -89,7 +89,7 @@
         "Link64": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/91.3.0esr/win64/en-US/Firefox%20Setup%2091.3.0esr.exe",
         "Link": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/91.3.0esr/win32/en-US/Firefox%20Setup%2091.3.0esr.exe",
         "Tag": "cFirefoxESR",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/firefox.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/firefox.png",
         "Group": "Internet"
     },
     {
@@ -97,14 +97,14 @@
         "Link64": "https://github.com/Hibbiki/chromium-win64/releases/download/v96.0.4664.45-r929512/mini_installer.sync.exe",
         "Link": "https://github.com/Hibbiki/chromium-win32/releases/download/v96.0.4664.45-r929512/mini_installer.sync.exe",
         "Tag": "cChromium",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/chromium.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/chromium.png",
         "Group": "Internet"
     },
     {
         "Title": "Ungoogled Chromium",
         "Link64": "https://github.com/macchrome/winchrome/releases/download/v96.0.4664.45-r929512-Win64/96.0.4664.45_ungoogled_mini_installer.exe",
         "Tag": "cUGChromium",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/chromium.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/chromium.png",
         "Group": "Internet"
     },
     {
@@ -112,7 +112,7 @@
         "Link64": "https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B96806E3D-7496-9303-FEC0-8299CB4E05AF%7D%26lang%3Den%26browser%3D3%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/chrome/install/ChromeStandaloneSetup64.exe",
         "Link": "https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B96806E3D-7496-9303-FEC0-8299CB4E05AF%7D%26lang%3Den%26browser%3D3%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dstable-arch_x86-statsdef_1%26installdataindex%3Dempty/chrome/install/ChromeStandaloneSetup.exe",
         "Tag": "cChrome",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/chrome.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/chrome.png",
         "Group": "Internet"
     },
     {
@@ -120,28 +120,28 @@
         "Link64": "https://download3.operacdn.com/pub/opera/desktop/81.0.4196.54/win/Opera_81.0.4196.54_Setup_x64.exe",
         "Link": "https://download3.operacdn.com/pub/opera/desktop/81.0.4196.54/win/Opera_81.0.4196.54_Setup.exe",
         "Tag": "cOpera",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/opera.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/opera.png",
         "Group": "Internet"
     },
     {
         "Title": "Discord",
         "Link": "https://dl.discordapp.net/distro/app/stable/win/x86/1.0.9002/DiscordSetup.exe",
         "Tag": "cDiscord",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/discord.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/discord.png",
         "Group": "Internet"
     },
     {
         "Title": "TeamViewer",
         "Link": "https://download.teamviewer.com/download/TeamViewer_Setup.exe",
         "Tag": "cTV",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/teamviewer.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/teamviewer.png",
         "Group": "Internet"
     },
     {
         "Title": "Google Zoom",
         "Link": "https://zoom.us/client/latest/ZoomInstaller.exe",
         "Tag": "cZoom",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/zoom.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/zoom.png",
         "Group": "Internet"
     },
     {
@@ -149,35 +149,35 @@
         "Link64": "https://statics.teams.cdn.office.net/production-windows-x64/1.3.00.32283/Teams_windows_x64.exe",
         "Link": "https://statics.teams.cdn.office.net/production-windows/1.3.00.32283/Teams_windows.exe",
         "Tag": "cMSTeams",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/teams.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/teams.png",
         "Group": "Internet"
     },
     {
         "Title": "Steam",
         "Link": "https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe",
         "Tag": "cSteam",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/steam.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/steam.png",
         "Group": "Internet"
     },
     {
         "Title": "Uplay",
         "Link": "https://ubistatic3-a.akamaihd.net/orbit/launcher_installer/UbisoftConnectInstaller.exe",
         "Tag": "cUbi",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/uplay.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/uplay.png",
         "Group": "Internet"
     },
     {
         "Title": "EA Origin",
         "Link": "https://origin-a.akamaihd.net/Origin-Client-Download/origin/live/OriginThinSetup.exe",
         "Tag": "cOrigin",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/origin.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/origin.png",
         "Group": "Internet"
     },
     {
         "Title": "Epic Games",
         "Link": "https://epicgames-download1.akamaized.net/Builds/UnrealEngineLauncher/Installers/Win32/EpicInstaller-10.19.2.msi?launcherfilename=EpicInstaller-10.19.2.msi",
         "Tag": "cEpicStore",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/epic.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/epic.png",
         "Group": "Internet"
     },
     {
@@ -185,14 +185,14 @@
         "Link64": "https://get.videolan.org/vlc/3.0.16/win64/vlc-3.0.16-win64.exe",
         "Link": "https://get.videolan.org/vlc/3.0.16/win32/vlc-3.0.16-win32.exe",
         "Tag": "cVLC",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/vlc.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/vlc.png",
         "Group": "GraphicsSound"
     },
     {
         "Title": "Spotify",
         "Link": "https://download.scdn.co/SpotifySetup.exe",
         "Tag": "cSpotify",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/spotify.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/spotify.png",
         "Group": "GraphicsSound"
     },
     {
@@ -200,14 +200,14 @@
         "Link64": "https://github.com/obsproject/obs-studio/releases/download/27.1.3/OBS-Studio-27.1.3-Full-Installer-x64.exe",
         "Link": "https://github.com/obsproject/obs-studio/releases/download/27.1.3/OBS-Studio-27.1.3-Full-Installer-x86.exe",
         "Tag": "cOBS",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/obs.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/obs.png",
         "Group": "GraphicsSound"
     },
     {
         "Title": "K-Lite Codec Pack",
         "Link": "https://files2.codecguide.com/K-Lite_Codec_Pack_1653_Mega.exe",
         "Tag": "cCodecs",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/klite.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/klite.png",
         "Group": "GraphicsSound"
     },
     {
@@ -215,63 +215,63 @@
         "Link64": "https://www.rarlab.com/rar/winrar-x64-602.exe",
         "Link": "https://www.rarlab.com/rar/wrar602.exe",
         "Tag": "cWinRar",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/winrar.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/winrar.png",
         "Group": "SystemTools"
     },
     {
         "Title": ".NET Framework 3.5",
         "Link": "https://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe",
         "Tag": "cNF35",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/netfw.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/netfw.png",
         "Group": "SystemTools"
     },
     {
         "Title": ".NET Framework 4.0",
         "Link": "https://download.microsoft.com/download/9/5/A/95A9616B-7A37-4AF6-BC36-D6EA96C8DAAE/dotNetFx40_Full_x86_x64.exe",
         "Tag": "cNF40",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/netfw.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/netfw.png",
         "Group": "SystemTools"
     },
     {
         "Title": ".NET Framework 4.5.2",
         "Link": "https://download.microsoft.com/download/E/2/1/E21644B5-2DF2-47C2-91BD-63C560427900/NDP452-KB2901907-x86-x64-AllOS-ENU.exe",
         "Tag": "cNF452",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/netfw.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/netfw.png",
         "Group": "SystemTools"
     },
     {
         "Title": ".NET Framework 4.7.2",
         "Link": "https://download.microsoft.com/download/6/E/4/6E48E8AB-DC00-419E-9704-06DD46E5F81D/NDP472-KB4054530-x86-x64-AllOS-ENU.exe",
         "Tag": "cNF472",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/netfw.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/netfw.png",
         "Group": "SystemTools"
     },
     {
         "Title": ".NET Framework 4.8",
         "Link": "https://download.visualstudio.microsoft.com/download/pr/2d6bb6b2-226a-4baa-bdec-798822606ff1/8494001c276a4b96804cde7829c04d7f/ndp48-x86-x64-allos-enu.exe",
         "Tag": "cNF48",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/netfw.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/netfw.png",
         "Group": "SystemTools"
     },
     {
         "Title": "Visual C++ AiO",
         "Link": "https://kapetanos-metaforiki.gr:56888/vcpp",
         "Tag": "cVCPP",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/visualcpp.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/visualcpp.png",
         "Group": "SystemTools"
     },
     {
         "Title": "DirectX",
         "Link": "https://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe",
         "Tag": "cDX",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/directx.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/directx.png",
         "Group": "SystemTools"
     },
     {
         "Title": "Unikey",
-        "Link": "https://github.com/arul0711/wibu-optimizer/blob/main/UniKeyNT.exe?raw=true",
+        "Link": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/UniKeyNT.exe?raw=true",
         "Tag": "cUnikey",
-        "Image": "https://github.com/arul0711/wibu-optimizer/blob/main/feed/UniKey.png",
+        "Image": "https://github.com/arul0711/Optimizer-vietnam-private/blob/main/feed/UniKey.png",
         "Group": "SystemTools"
     }
 ]
